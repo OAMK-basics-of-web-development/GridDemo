@@ -1,0 +1,9 @@
+:root {
+  --base-gap: 1rem;
+  --layout-fixed-height: 60px;
+  --foreground-color: #fff;
+  --header-bg-color: red;
+  --main-bg-color: blue;
+  --aside-bg-color: green;
+  --footer-bg-color: purple;
+}
